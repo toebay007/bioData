@@ -41,7 +41,7 @@
                     </div>
                     <div class="col-md">
                         <div class="form-floating">
-                        <input type="text" class="form-control" id="floatingInputGrid11" placeholder="Firstname">
+                        <input type="text" class="form-control" id="floatingInputGrid11" placeholder="Firstname" disabled>
                         <label for="floatingInputGrid11">Click to capture fingerprint</label>
                         <div id="emailHelp" class="form-text"><i>Search by Staff fingerprint</i></div>
                         </div>
