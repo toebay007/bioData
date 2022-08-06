@@ -9,6 +9,10 @@ body{
     min-height: 30px;
     margin-top: 40px;
 }
+.bodisz{
+    min-height: 30px;
+    margin-top: 150px;
+}
 .cards{
     margin-top: 20px;
     border: grey 1px;

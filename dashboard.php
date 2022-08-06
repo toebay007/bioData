@@ -2,12 +2,12 @@
     <div class="col-md-10 offset-md-1 bodis">
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Logout</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Dashboard</li>
                     </ol>
                 </nav>
                 <br><br>
-        <div class="row bodi">
+        <div class="row bodis">
             <div class="col-4 bodi">
                 <a href="enroll.php"><button class="form-control btn submitz"><i class="fa-solid fa-user-plus"></i>ENROLLMENT</button></a>
             </div>

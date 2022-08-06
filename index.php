@@ -1,5 +1,6 @@
 <?php include "head456.php"; ?>
-                <h4 class="text-center bodi">
+        <div class="col-md-10 offset-md-1 bodis">
+                <h4 class="text-center bodis">
                     <i><b>LOGIN</b></i>
                 </h4>
                 <div class="cards">
