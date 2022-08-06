@@ -3,6 +3,7 @@ body{
     
 }
 .bodi{
+    border: red 1px solid;
     min-height: 30px;
 }
 .bodis{
@@ -23,7 +24,7 @@ form{
     margin-bottom: 20px;
     border-radius: 5px;
     background-color: brown;
-    width: 80px;
+    width: 100%;
     color: white;
 }
 .submitz:hover{
@@ -31,6 +32,6 @@ form{
     margin-bottom: 20px;
     border-radius: 5px;
     background-color: rgb(85, 44, 44);
-    width: 80px;
+    width: 100%;
     color: white;
 }
