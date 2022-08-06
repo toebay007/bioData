@@ -38,7 +38,7 @@
                     
                     <div class="form-floating">
                         <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                            <option selected>Open this select list</option>
+                            <option selected>Open this list</option>
                             <option value="Active">Active</option>
                             <option value="Retired">Retired</option>
                             <option value="Deceased">Deceased</option>
@@ -62,7 +62,7 @@
                     
                     <div class="form-floating mt-4">
                         <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
-                            <option selected>Open this select list</option>
+                            <option selected>Open this list</option>
                             <option value="Department">Department</option>
                             <option value="Faculty">Faculty</option>
                             <option value="Institution">Institution</option>
