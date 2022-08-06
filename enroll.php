@@ -8,9 +8,9 @@
         </nav>
         <br><br>
 
-        <div class="cards">
+        <div class="cards mb-4">
             <form action="#" method="POST">
-                <h3 class="text-center">Enroll</h3>
+                <h3 class="text-center">Enrollment</h3>
                 <div class="row g-2">
                     <div class="col-md">
                         <div class="form-floating">
@@ -149,7 +149,7 @@
             </form>
         </div>
 
-
+<div class="bodis"></div>
 
 
         
